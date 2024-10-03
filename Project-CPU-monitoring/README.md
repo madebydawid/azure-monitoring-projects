@@ -3,7 +3,7 @@
 ### Overview
 In this project, I configured Azure Monitor to track the CPU usage on a virtual machine (VM) and set up an alert rule to send a notification if the CPU usage exceeds 80%. This project showcases how to create a VM, configure monitoring, and set up alerts.
 
-#### (Note: The whole alert process can be made during the initial VM setup (Seen in [screenshot 4](path/to/screenshot3.png)), but for the purpose of demonstration the whole setup is included below.)
+#### (Note: The whole alert process can be made during the initial VM setup [as seen here](https://github.com/madebydawid/azure-monitoring-projects/blob/main/Project-CPU-monitoring/images/VM_alert_shortcut.png?raw=true), but for the purpose of demonstration the whole setup is included below.)
 
 ### Objectives
 - Create a virtual machine in Azure.
@@ -34,16 +34,16 @@ In this project, I configured Azure Monitor to track the CPU usage on a virtual 
 ### Screenshots
 
 1. **CPU Monitoring in Azure Monitor**
-   ![CPU Monitoring Screenshot](Project-CPU-monitoring/images/Create_VM.png)
+   [CPU Monitoring Screenshot](https://github.com/madebydawid/azure-monitoring-projects/blob/main/Project-CPU-monitoring/images/Create_VM.png?raw=true)
 
 2. **Alert Rule Configuration**
-   ![Alert Rule Screenshot](Project-CPU-monitoring/images/Alert_rule.png)
+   [Alert Rule Screenshot](https://github.com/madebydawid/azure-monitoring-projects/blob/main/Project-CPU-monitoring/images/Alert_rule.png?raw=true)
 
 3. **Notification**
-   ![CPU Stress Test & Notification](Project-CPU-monitoring/images/notification.png)
+   [Email Notification](https://github.com/madebydawid/azure-monitoring-projects/blob/main/Project-CPU-monitoring/images/notification.png?raw=true)
 
 5. **Shortcut of creating an alert rule while setting up VM**
-   ![Shortcut Alert Rule in VM creation](Project-CPU-monitoring/images/VM_alert_shortcut.png)
+   [Shortcut Alert Rule in VM creation](https://github.com/madebydawid/azure-monitoring-projects/blob/main/Project-CPU-monitoring/images/VM_alert_shortcut.png?raw=true)
 
 ### Project Learnings
 - Gained experience with Azure Monitor to track resource performance.
