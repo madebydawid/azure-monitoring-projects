@@ -33,17 +33,15 @@ In this project, I configured Azure Monitor to track the CPU usage on a virtual 
 
 ### Screenshots
 
-1. **CPU Monitoring in Azure Monitor**
-   [CPU Monitoring Screenshot](https://github.com/madebydawid/azure-monitoring-projects/blob/main/Project-CPU-monitoring/images/Create_VM.png?raw=true)
+[CPU Monitoring Screenshot](https://github.com/madebydawid/azure-monitoring-projects/blob/main/Project-CPU-monitoring/images/Create_VM.png?raw=true)
 
-2. **Alert Rule Configuration**
-   [Alert Rule Screenshot](https://github.com/madebydawid/azure-monitoring-projects/blob/main/Project-CPU-monitoring/images/Alert_rule.png?raw=true)
+[Alert Rule Screenshot](https://github.com/madebydawid/azure-monitoring-projects/blob/main/Project-CPU-monitoring/images/Alert_rule.png?raw=true)
 
-3. **Notification**
-   [Email Notification](https://github.com/madebydawid/azure-monitoring-projects/blob/main/Project-CPU-monitoring/images/notification.png?raw=true)
+[Email Notification](https://github.com/madebydawid/azure-monitoring-projects/blob/main/Project-CPU-monitoring/images/notification.png?raw=true)
 
-5. **Shortcut of creating an alert rule while setting up VM**
-   [Shortcut Alert Rule in VM creation](https://github.com/madebydawid/azure-monitoring-projects/blob/main/Project-CPU-monitoring/images/VM_alert_shortcut.png?raw=true)
+[Shortcut Alert Rule in VM creation](https://github.com/madebydawid/azure-monitoring-projects/blob/main/Project-CPU-monitoring/images/VM_alert_shortcut.png?raw=true)
+
+
 
 ### Project Learnings
 - Gained experience with Azure Monitor to track resource performance.
