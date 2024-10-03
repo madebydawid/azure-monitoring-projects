@@ -3,7 +3,7 @@
 ### Overview
 In this project, I configured Azure Monitor to track the CPU usage on a virtual machine (VM) and set up an alert rule to send a notification if the CPU usage exceeds 80%. This project showcases how to create a VM, configure monitoring, and set up alerts.
 
-#### (Note: The whole alert process can be made during the initial VM setup (Seen in [screenshot 3](path/to/screenshot3.png)), but for the purpose of demonstration the whole setup is included below.)
+#### (Note: The whole alert process can be made during the initial VM setup (Seen in [screenshot 4](path/to/screenshot3.png)), but for the purpose of demonstration the whole setup is included below.)
 
 ### Objectives
 - Create a virtual machine in Azure.
@@ -39,8 +39,11 @@ In this project, I configured Azure Monitor to track the CPU usage on a virtual 
 2. **Alert Rule Configuration**
    ![Alert Rule Screenshot](path/to/screenshot2.png)
 
-3. **Shortcut of creating an alert rule while setting up VM**
-   ![Shortcut Alert Rule in VM creation](path/to/screenshot3.png)
+3. **CPU Stress Test and Notification**
+4. ![CPU Stress Test & Notification](path/to/screenshot3.png)
+
+5. **Shortcut of creating an alert rule while setting up VM**
+   ![Shortcut Alert Rule in VM creation](path/to/screenshot4.png)
 
 ### Project Learnings
 - Gained experience with Azure Monitor to track resource performance.
