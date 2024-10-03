@@ -34,16 +34,16 @@ In this project, I configured Azure Monitor to track the CPU usage on a virtual 
 ### Screenshots
 
 1. **CPU Monitoring in Azure Monitor**
-   ![CPU Monitoring Screenshot](path/to/screenshot1.png)
+   ![CPU Monitoring Screenshot](Project-CPU-monitoring/images/Create_VM.png)
 
 2. **Alert Rule Configuration**
-   ![Alert Rule Screenshot](path/to/screenshot2.png)
+   ![Alert Rule Screenshot](Project-CPU-monitoring/images/Alert_rule.png)
 
-3. **CPU Stress Test and Notification**
-4. ![CPU Stress Test & Notification](path/to/screenshot3.png)
+3. **Notification**
+   ![CPU Stress Test & Notification](Project-CPU-monitoring/images/notification.png)
 
 5. **Shortcut of creating an alert rule while setting up VM**
-   ![Shortcut Alert Rule in VM creation](path/to/screenshot4.png)
+   ![Shortcut Alert Rule in VM creation](Project-CPU-monitoring/images/VM_alert_shortcut.png)
 
 ### Project Learnings
 - Gained experience with Azure Monitor to track resource performance.
