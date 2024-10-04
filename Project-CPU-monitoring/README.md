@@ -33,9 +33,9 @@ In this project, I configured Azure Monitor to track the CPU usage on a virtual 
 
 ### Screenshots
 
-[CPU Monitoring Screenshot](https://github.com/madebydawid/azure-monitoring-projects/blob/main/Project-CPU-monitoring/images/Create_VM.png?raw=true)
+[CPU Monitoring](https://github.com/madebydawid/azure-monitoring-projects/blob/main/Project-CPU-monitoring/images/Create_VM.png?raw=true)
 
-[Alert Rule Screenshot](https://github.com/madebydawid/azure-monitoring-projects/blob/main/Project-CPU-monitoring/images/Alert_rule.png?raw=true)
+[Alert Rule](https://github.com/madebydawid/azure-monitoring-projects/blob/main/Project-CPU-monitoring/images/Alert_rule.png?raw=true)
 
 [Email Notification](https://github.com/madebydawid/azure-monitoring-projects/blob/main/Project-CPU-monitoring/images/notification.png?raw=true)
 
