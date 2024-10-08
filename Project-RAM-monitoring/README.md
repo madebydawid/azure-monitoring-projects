@@ -33,9 +33,12 @@ In this project, I configured Azure Monitor to track the memory usage on a virtu
 1. Check your email to confirm the notification was received. Adjust thresholds or rerun the simulation as necessary.
 
 ### Screenshots
-1. Memory Monitoring
-2. Alert Rule Configuration
-3. Email Notification
+
+- Memory Monitoring
+
+- Alert Rule Configuration
+
+- [Email Notification](https://github.com/madebydawid/azure-monitoring-projects/blob/main/Project-RAM-monitoring/images/ram-alert-rule-email.jpg?raw=true)
 
 ### Project Learnings
 - Gained experience with Azure Monitor to track VM memory usage.
@@ -48,8 +51,8 @@ In this project, I configured Azure Monitor to track the memory usage on a virtu
 
 ### Resources
 
-[Azure Monitor-Metrics](https://learn.microsoft.com/en-us/azure/azure-monitor/essentials/data-platform-metrics)
+- [Azure Monitor-Metrics](https://learn.microsoft.com/en-us/azure/azure-monitor/essentials/data-platform-metrics)
 
-[Azure Monitor-Alerts](https://learn.microsoft.com/en-us/azure/azure-monitor/alerts/alerts-overview)
+- [Azure Monitor-Alerts](https://learn.microsoft.com/en-us/azure/azure-monitor/alerts/alerts-overview)
 
-[Simulating Memory Loadn on Linux](https://manpages.ubuntu.com/manpages/bionic/man1/stress-ng.1.html)
+- [Simulating Memory Loadn on Linux](https://manpages.ubuntu.com/manpages/bionic/man1/stress-ng.1.html)
