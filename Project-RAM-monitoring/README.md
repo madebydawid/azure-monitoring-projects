@@ -7,7 +7,7 @@ In this project, I configured Azure Monitor to track the memory usage on a virtu
 
 ## Objectives
 1. Monitor the VM's available memory with Azure Monitor.
-2. Set up an alert rule to trigger when available memory is below 500 MB.
+2. Set up an alert rule to trigger when available memory is below 600 MB.
 3. Receive email notifications when the alert is triggered.
 
 ## Steps to Reproduce
@@ -19,7 +19,7 @@ In this project, I configured Azure Monitor to track the memory usage on a virtu
 
 ### Set up the Memory Alert
 1. In Azure Monitor, go to **Alerts** and create a new alert rule.
-2. Choose **Memory Available Bytes** as the signal, set the threshold to 500 MB, and configure the action group to send an email notification.
+2. Choose **Memory Available Bytes** as the signal, set the threshold to 600 MB (or your own preference), and configure the action group to send an email notification.
 
 ### Simulate Memory Load
 1. Install `stress-ng` to simulate memory usage on your VM (Linux only):
