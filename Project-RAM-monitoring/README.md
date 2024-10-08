@@ -34,7 +34,7 @@ In this project, I configured Azure Monitor to track the memory usage on a virtu
 
 ### Screenshots
 
-- Memory Monitoring
+- [Memory Monitoring](https://github.com/madebydawid/azure-monitoring-projects/blob/main/Project-RAM-monitoring/images/vm-ram-metrics.jpg?raw=true)
 
 - Alert Rule Configuration
 
