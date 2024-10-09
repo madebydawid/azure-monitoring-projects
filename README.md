@@ -8,7 +8,7 @@ This repository contains a collection of simple Azure monitoring projects design
 1. **[Monitoring CPU Usage on a Virtual Machine](./Project%201:%20CPU-monitoring/README.md)**
    - Set up monitoring and alerts for CPU usage on an Azure VM.
 
-2. **[Disk Performance Monitoring and Scaling](./Project%202:%20disk-scaling/README.md)**
+2. **[RAM Monitoring on a Virtual Machine](./Project%202:%20RAM-monitoring/README.md)**
    - Automate disk performance monitoring and configure autoscaling based on metrics.
   
 3. **[Real-Time Dashboard for Multiple Azure Resources](./Project%203:%20Real-Time%20Dashboard%20for%20Multiple%20Azure%20Resources/README.md)**
