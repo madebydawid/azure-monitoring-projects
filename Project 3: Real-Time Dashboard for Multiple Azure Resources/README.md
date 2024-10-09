@@ -1,4 +1,4 @@
-# Project 3: Creating a Real-Time Dashboard for Multiple Azure Resources
+## Project 3: Creating a Real-Time Dashboard for Multiple Azure Resources
 
 ## Overview
 In this project, I created an Azure Monitor Dashboard to display real-time data for CPU usage, memory usage, and network activity for multiple virtual machines. This project demonstrates how to create a custom dashboard in Azure to visualize multiple monitoring points in one place, making it easier to get an overview of resource status.
