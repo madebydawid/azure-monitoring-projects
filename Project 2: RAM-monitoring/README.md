@@ -1,4 +1,4 @@
-# Project 2: Monitoring Memory Usage on an Azure Virtual Machine
+## Project 2: Monitoring Memory Usage on an Azure Virtual Machine
 
 ## Overview
 In this project, I configured Azure Monitor to track the memory usage on a virtual machine (VM) and set up an alert rule to send a notification if the available memory falls below a defined threshold. This project demonstrates how to monitor memory usage on a VM, set up alert rules, and simulate memory load for testing.
