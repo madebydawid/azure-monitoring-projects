@@ -3,7 +3,7 @@
 ### Overview
 In this project, I configured Azure Monitor to track the CPU usage on a virtual machine (VM) and set up an alert rule to send a notification if the CPU usage exceeds 80%. This project showcases how to create a VM, configure monitoring, and set up alerts.
 
-> (Note: The whole alert process can be made during the initial VM setup [as seen here](https://github.com/madebydawid/azure-monitoring-projects/blob/main/Project-CPU-monitoring/images/VM_alert_shortcut.png?raw=true), but for the purpose of demonstration the whole setup is included below.)
+> (Note: The whole alert process can be made during the initial VM setup [as seen here](https://github.com/madebydawid/azure-monitoring-projects/blob/main/Project%201:%20CPU-monitoring/images/VM_alert_shortcut.png?raw=true), but for the purpose of demonstration the whole setup is included below.)
 
 ### Objectives
 - Create a virtual machine in Azure.
@@ -33,13 +33,14 @@ In this project, I configured Azure Monitor to track the CPU usage on a virtual 
 
 ### Screenshots
 
-[CPU Monitoring](https://github.com/madebydawid/azure-monitoring-projects/blob/main/Project-CPU-monitoring/images/Create_VM.png?raw=true)
+[CPU Monitoring](https://github.com/madebydawid/azure-monitoring-projects/blob/main/Project%201:%20CPU-monitoring/images/Create_VM.png?raw=true)
 
-[Alert Rule](https://github.com/madebydawid/azure-monitoring-projects/blob/main/Project-CPU-monitoring/images/Alert_rule.png?raw=true)
+[Alert Rule](https://github.com/madebydawid/azure-monitoring-projects/blob/main/Project%201:%20CPU-monitoring/images/Alert_rule.png?raw=true)
+            
 
-[Email Notification](https://github.com/madebydawid/azure-monitoring-projects/blob/main/Project-CPU-monitoring/images/notification.png?raw=true)
+[Email Notification](https://github.com/madebydawid/azure-monitoring-projects/blob/main/Project%201:%20CPU-monitoring/images/notification.png?raw=true)
 
-[Shortcut Alert Rule in VM creation](https://github.com/madebydawid/azure-monitoring-projects/blob/main/Project-CPU-monitoring/images/VM_alert_shortcut.png?raw=true)
+[Shortcut Alert Rule in VM creation](https://github.com/madebydawid/azure-monitoring-projects/blob/main/Project%201:%20CPU-monitoring/images/VM_alert_shortcut.png?raw=true)
 
 
 
