@@ -50,3 +50,8 @@ In this project, I created an Azure Monitor Dashboard to display real-time data 
 ## Resources
 - [Azure Monitor Dashboard Documentation](https://learn.microsoft.com/en-us/azure/azure-monitor/visualize/overview)
 - [Azure Metrics Documentation](https://learn.microsoft.com/en-us/azure/azure-monitor/essentials/data-platform-metrics)
+
+
+---
+Resources to add later:
+[DCR](https://learn.microsoft.com/en-us/azure/azure-monitor/vm/tutorial-monitor-vm-guest)
