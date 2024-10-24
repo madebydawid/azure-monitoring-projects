@@ -70,10 +70,12 @@ In this project, I created an Azure Monitor Dashboard that provides real-time da
 
 ## Screenshots
 
-- Screenshot of Dashboard Layout
-- CPU and Memory Monitoring Widget
-- Network Activity Monitoring Widget
-- Runbook Execution Confirmation
+- [Screenshot of Dashboard Layout](https://github.com/madebydawid/azure-monitoring-projects/blob/main/Project%203:%20Real-Time%20Dashboard%20for%20Multiple%20Azure%20Resources/images/dashboard-tests.jpg?raw=true)
+- [Alert Rules](https://github.com/madebydawid/azure-monitoring-projects/blob/main/Project%203:%20Real-Time%20Dashboard%20for%20Multiple%20Azure%20Resources/images/alert-rules.png?raw=true)
+- [RBAC Implementation on RG level to allow for automation](https://github.com/madebydawid/azure-monitoring-projects/blob/main/Project%203:%20Real-Time%20Dashboard%20for%20Multiple%20Azure%20Resources/images/RBAC-assignment.png?raw=true)
+- [Powershell Runbook Script](https://github.com/madebydawid/azure-monitoring-projects/blob/main/Project%203:%20Real-Time%20Dashboard%20for%20Multiple%20Azure%20Resources/images/powershell-runbook.png?raw=true)
+- [Runbook Execution Confirmation](https://github.com/madebydawid/azure-monitoring-projects/blob/main/Project%203:%20Real-Time%20Dashboard%20for%20Multiple%20Azure%20Resources/images/vm-runbook-test.jpg?raw=true)
+- [Email Confirmation](https://github.com/madebydawid/azure-monitoring-projects/blob/main/Project%203:%20Real-Time%20Dashboard%20for%20Multiple%20Azure%20Resources/images/email-alerts.png?raw=true)
 
 ## Resources
 
