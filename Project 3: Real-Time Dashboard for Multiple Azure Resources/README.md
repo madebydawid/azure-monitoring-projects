@@ -16,6 +16,8 @@ In this project, I created an Azure Monitor Dashboard that provides real-time da
 
 ## Steps to Reproduce
 
+<details>
+  
 ### 1. Create a New Dashboard
 
 - Go to the Azure Portal and select **Dashboards** from the menu.
@@ -51,6 +53,7 @@ In this project, I created an Azure Monitor Dashboard that provides real-time da
 - Organize the dashboard layout for clarity by grouping related widgets.
 - Use filtering options to focus on relevant data.
 - Save and, if needed, publish the dashboard for other users.
+</details>
 
 ## Project Learnings
 
